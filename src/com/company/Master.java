@@ -6,5 +6,6 @@ public class Master {
         System.out.println("init");
 
         System.out.println(1);
+        System.out.println(2);
     }
 }
